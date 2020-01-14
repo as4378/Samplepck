@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579040766896.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F3217156",
+    "lastKnownWriteTime" : 1579040977,
+    "last_content_update" : 1579040977496,
+    "path" : "C:/Users/AnuraagUS/Samplepck/src/interface.c",
+    "project_path" : "src/interface.c",
+    "properties" : {
+        "cursorPosition" : "16,2",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "c"
+}

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579039973528.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "22048565",
+    "lastKnownWriteTime" : 1579043041,
+    "last_content_update" : 1579043041865,
+    "path" : "C:/Users/AnuraagUS/Samplepck/R/Calc.R",
+    "project_path" : "R/Calc.R",
+    "properties" : {
+        "cursorPosition" : "14,49",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
